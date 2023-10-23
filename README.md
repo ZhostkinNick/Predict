@@ -1,0 +1,2 @@
+# Predict
+Simple script Prognoz
